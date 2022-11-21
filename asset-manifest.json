@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a5f43db4.css",
+    "main.js": "/static/js/main.025043c8.js",
+    "static/media/room1.jpg": "/static/media/room1.386bdfaa8c847de359df.jpg",
+    "static/media/room3.jpg": "/static/media/room3.7a93444147bcf87ce1cc.jpg",
+    "static/media/room2.jpg": "/static/media/room2.1b24c8738b1786dfe80b.jpg",
+    "static/media/mafia.png": "/static/media/mafia.c2fc0942b83c74544630.png",
+    "static/media/normal.png": "/static/media/normal.2b6ac6099c0338bd1672.png",
+    "static/media/default.png": "/static/media/default.ac48b7f96ef4462e6574.png",
+    "index.html": "/index.html",
+    "main.a5f43db4.css.map": "/static/css/main.a5f43db4.css.map",
+    "main.025043c8.js.map": "/static/js/main.025043c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5f43db4.css",
+    "static/js/main.025043c8.js"
+  ]
+}
